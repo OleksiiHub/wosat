@@ -1,4 +1,4 @@
-import './App.css';
+import './css/app.min.css';
 
 function App() {
   return (
