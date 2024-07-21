@@ -1,2 +1,2 @@
-import '../css/menu.min.css';
+import '../css/menu.css';
 
